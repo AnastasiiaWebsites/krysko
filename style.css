@@ -1,0 +1,46 @@
+img {
+    height: 150px;
+    width: 150px;
+}
+h1{
+    font-family: sans-serif;
+    color: rgb(96, 14, 143);
+}
+header{
+    background-color: yellow;
+}
+.logika {
+    width: 450px;
+}
+h3 {
+ font-family: sans-serif;
+  color: rgb(96, 14, 143);
+}
+.loogika{
+    height: 300px;
+    width: 500px;
+}
+p{
+    font-family: sans-serif;
+    color:rgb(96, 14, 143);
+}
+footer{
+    background-color: rgb(96, 14, 143);
+}
+a {
+        padding:10px ;
+    border-radius: 10px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    border: 3px solid rgba(255, 251, 0, 0.842);
+    text-decoration: none;
+    font-family: sans-serif;
+}
+footer img{
+height: 160px;
+    width: 150px;
+}
+footer p{
+    font-family: sans-serif;
+    color: rgba(255, 251, 0, 0.842);
+}
